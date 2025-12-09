@@ -279,7 +279,9 @@ a {
   }
 
   .subscription__form button {
-    min-width: 100%;
+    margin: 0 96px;
+    min-width: 50%;
+    min-height: 75%;
   }
 }
 /* END: subscribe media queries */
@@ -290,7 +292,7 @@ a {
     flex-direction: column;
   }
 
-  .trending-drink {
+  .trending-drinks {
     flex-direction: column-reverse;
   }
 
