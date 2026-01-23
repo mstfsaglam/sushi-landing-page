@@ -46,6 +46,7 @@ sushi-landing-page/
 │
 ├── index.html
 └── README.md
+```
 
 ## Run This Project
 
